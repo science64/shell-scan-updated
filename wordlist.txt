@@ -1,3 +1,6 @@
+alfanew1.PHP
+alfanew.PHP
+log.php
 b.php
 r.php
 s.php
